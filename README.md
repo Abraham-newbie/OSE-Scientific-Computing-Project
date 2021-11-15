@@ -1,1 +1,2 @@
-# OSE-Scientific-Computing-Project
+
+# OSE Course Project
